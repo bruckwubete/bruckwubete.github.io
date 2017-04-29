@@ -1,0 +1,38 @@
+/* Main Photo */
+.photo-01 {
+  background: url("../../images/layouts/bruck/userpics/userpic01.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 360px; }
+
+/* Timeline */
+.timeline-bruck-01,
+.timeline-bruck-02,
+.timeline-bruck-03,
+.timeline-bruck-04 {
+  -moz-transition: all .5s ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out; }
+
+.timeline-bruck-01 {
+  background: url("../../images/layouts/bruck/timeline/01.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bruck-02 {
+  background: url("../../images/layouts/bruck/timeline/02.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bruck-03 {
+  background: url("../../images/layouts/bruck/timeline/03.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bruck-04 {
+  background: url("../../images/layouts/bruck/timeline/04.jpg");
+  background-position: center;
+  background-size: cover; }
+
+/*# sourceMappingURL=bruck.css.map */
