@@ -36,10 +36,10 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "your@email.com";
+        $recipient = "bruckwendwessenwubet@cmail.carleton.ca";
 
         // Set the email subject.
-        $subject = "New contact from $name";
+        $subject = "New Message from $name on bruckwubete.me";
 
         // Build the email content.
         $email_content = "Name: $name\n";
