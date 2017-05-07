@@ -16,7 +16,7 @@
   transition: all .5s ease-in-out; }
 
 .timeline-bruck-01 {
-  background: url("../../images/layouts/bruck/timeline/01.jpg");
+  background: url("../../images/layouts/bruck/timeline/01.gif");
   background-position: center;
   background-size: cover; }
 
@@ -26,12 +26,12 @@
   background-size: cover; }
 
 .timeline-bruck-03 {
-  background: url("../../images/layouts/bruck/timeline/03.jpg");
+  background: url("../../images/layouts/bruck/timeline/01.gif");
   background-position: center;
   background-size: cover; }
 
 .timeline-bruck-04 {
-  background: url("../../images/layouts/bruck/timeline/04.jpg");
+  background: url("../../images/layouts/bruck/timeline/01.gif");
   background-position: center;
   background-size: cover; }
 
